@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/soccer-app/static/css/main.8fc5f308.chunk.css",
+    "main.js": "/soccer-app/static/js/main.d9335b1d.chunk.js",
+    "main.js.map": "/soccer-app/static/js/main.d9335b1d.chunk.js.map",
+    "runtime-main.js": "/soccer-app/static/js/runtime-main.bbb7209b.js",
+    "runtime-main.js.map": "/soccer-app/static/js/runtime-main.bbb7209b.js.map",
+    "static/js/2.a8bfb9b4.chunk.js": "/soccer-app/static/js/2.a8bfb9b4.chunk.js",
+    "static/js/2.a8bfb9b4.chunk.js.map": "/soccer-app/static/js/2.a8bfb9b4.chunk.js.map",
+    "static/js/3.b480dbb6.chunk.js": "/soccer-app/static/js/3.b480dbb6.chunk.js",
+    "static/js/3.b480dbb6.chunk.js.map": "/soccer-app/static/js/3.b480dbb6.chunk.js.map",
+    "index.html": "/soccer-app/index.html",
+    "static/css/main.8fc5f308.chunk.css.map": "/soccer-app/static/css/main.8fc5f308.chunk.css.map",
+    "static/js/2.a8bfb9b4.chunk.js.LICENSE.txt": "/soccer-app/static/js/2.a8bfb9b4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbb7209b.js",
+    "static/js/2.a8bfb9b4.chunk.js",
+    "static/css/main.8fc5f308.chunk.css",
+    "static/js/main.d9335b1d.chunk.js"
+  ]
+}
